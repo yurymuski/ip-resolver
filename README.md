@@ -1,5 +1,5 @@
 # ip-resolver
-Gernerates list of Domains hosted on the specific IP (based on virustotal API v3)
+Generates list of Domains hosted on the specific IP (based on virustotal API v3)
 
 ### Usage
 
